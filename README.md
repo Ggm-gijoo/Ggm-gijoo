@@ -30,7 +30,7 @@ Learning
 Tool
 --------
  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=black">
+ <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=black">
  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">  
  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=SourceTree&logoColor=white">  
  <img src="https://img.shields.io/badge/Desktop-5C2D91?style=for-the-badge&logo=GitHub&logoColor=white"/>
