@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7d9d9c,100:576f72&height=200&text=이기주&fontSize=65&fontAlign=50&fontAlignY=25&fontColor=FFFFFF&desc=Github%20Profile&descSize=25&descAlign=50&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7d9d9c,100:181D31&height=200&text=이기주&fontSize=65&fontAlign=50&fontAlignY=25&fontColor=FFFFFF&desc=Github%20Profile&descSize=25&descAlign=50&descAlignY=50)
 
 About me...
 =
