@@ -28,9 +28,8 @@ Learning
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggm-gijoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
---------
 Tool
---------
+=
 Developement
   -
  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
