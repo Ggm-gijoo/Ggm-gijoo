@@ -3,7 +3,7 @@
 
 About me...
 =
-<img src="https://img.shields.io/badge/Potfolio link-EA4335?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Potfolio link-191A1B?style=for-the-badge&logoColor=white">
  
 
 Career
