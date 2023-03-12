@@ -5,7 +5,7 @@
 About me...
 =
  <a href="http://ggm.gondr.net/user/profile/71" target="_blank">
-<img src="https://img.shields.io/badge/Potfolio link-191A1B?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Potfolio link-191A1B?style=for-the-badge&logoColor=white&size=200">
  
 
 Career
