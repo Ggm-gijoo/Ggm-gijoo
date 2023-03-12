@@ -1,7 +1,3 @@
-<div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello!!&fontSize=65&fontAlign=50&fontAlignY=25&fontColor=FFFFFF&desc=이기주&descSize=25&descAlign=50&descAlignY=50)
-
 ✨Introduce✨
 =
 클라이언트 프로그래밍 지망인 이기주라고 합니다. 
