@@ -32,7 +32,7 @@ Career
 
 ❤️Contact❤️
 ---------------
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> Gijoo1012@gmail.com
 ------
 Github Information
 -----
