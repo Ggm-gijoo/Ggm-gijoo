@@ -1,9 +1,9 @@
 <div align="center">
  
 
-Introduce
+About me...
 =
-클라이언트 프로그래밍 지망인 이기주라고 합니다. 
+<img src="https://img.shields.io/badge/Potfolio-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
  
 
 Career
@@ -14,7 +14,7 @@ Career
  
   
   
-📖Learning📖
+Learning
 -------------
  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">  
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white"> 
@@ -24,7 +24,7 @@ Career
 
 
 
-🛠️Tool🛠
+Tool
 --------
  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=black">
@@ -33,7 +33,7 @@ Career
 <img src="https://img.shields.io/badge/Desktop-5C2D91?style=flat&logo=GitHub&logoColor=white"/>
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
-❤️Contact❤️
+Contact
 ---------------
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGMSzZnXzlJZMmsjkQhTPXlltXSVNMnbCHqfJKQljtMTMlHqlHNGvLvlKbJPPWkwnCXGklc" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
