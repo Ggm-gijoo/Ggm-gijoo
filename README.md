@@ -27,7 +27,8 @@ Learning
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggm-gijoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
--------------
+<br>
+  
 -------------
 Tool
 =
@@ -43,6 +44,8 @@ Git
  <img src="https://img.shields.io/badge/Desktop-5C2D91?style=for-the-badge&logo=GitHub&logoColor=white"/>
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
+ <br>
+ 
 ---------------
 Contact
 ---------------
