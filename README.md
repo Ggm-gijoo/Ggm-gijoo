@@ -37,9 +37,9 @@ Career
 ------
 Github Information
 -----
-![](https://github-readme-stats.vercel.app/api?username=sehyeon1104&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=ggm-gijoo&show_icons=true&theme=tokyonight)
 
-[![](https://github-readme-streak-stats.herokuapp.com?user=sehyeon1104&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![](https://github-readme-streak-stats.herokuapp.com?user=ggm-gijoo&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![opgc](https://api.opgc.me/githubs/users/ggm-gijoo/tag/?theme=dracula)
 
