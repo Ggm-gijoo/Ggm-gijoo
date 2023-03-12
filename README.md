@@ -41,6 +41,4 @@ Github Information
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=ggm-gijoo&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![opgc](https://api.opgc.me/githubs/users/ggm-gijoo/tag/?theme=dracula)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20For%20Visiting!!&fontSize=70&animation=fadeIn&fontAlignY=70&fontColor=FFFFFF)
