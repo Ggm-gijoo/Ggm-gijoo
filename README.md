@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:a8edea,100:fed6e3&height=200&text=이기주&fontSize=65&fontAlign=50&fontAlignY=35&fontColor=0:a8edea,100:fed6e3&animation=scaleIn&desc=Github%20Profile&descSize=25&descAlign=50&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:a8edea,100:fed6e3&height=200&text=이기주&fontSize=65&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=scaleIn&desc=Github%20Profile&descSize=25&descAlign=50&descAlignY=75)
  
 <span style="font-family:Papyrus; font-size:4em;">
  
