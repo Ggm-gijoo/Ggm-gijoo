@@ -1,12 +1,5 @@
 <div align="center">
  
- @font-face {
-    font-family: 'NeoDunggeunmoPro-Regular';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/NeoDunggeunmoPro-Regular.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-}
- 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:a8edea,100:fed6e3&height=200&text=이기주&fontSize=65&fontAlign=50&fontAlignY=35&fontColor=0:a8edea,100:fed6e3&animation=scaleIn&desc=Github%20Profile&descSize=25&descAlign=50&descAlignY=75)
 
 <span style="font-family:Papyrus; font-size:4em;">
