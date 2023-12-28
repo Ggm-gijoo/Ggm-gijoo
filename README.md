@@ -7,7 +7,7 @@
 About me...
 </span>
 =
- <a href="http://ggm.gondr.net/user/profile/71" target="_blank">
+ <a href="[http://ggm.gondr.net/user/profile/71](https://pastoral-ocean-b8b.notion.site/f368c447cf2242559154420dd0931d17)" target="_blank">
 <img src="https://img.shields.io/badge/Potfolio link-191A1B?style=for-the-badge&logoColor=white&size=200">
  
 
